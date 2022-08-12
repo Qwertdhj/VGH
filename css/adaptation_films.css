@@ -1,0 +1,245 @@
+@media (max-width: 480px)
+{
+    .line_1 p {
+        font-size: 45px;
+        width: auto;
+        top: -40px;
+        left: -14px;
+        position: absolute;
+    }
+    .line p {
+        font-size: 45px;
+        /* width: auto; */
+        top: -45px;
+        left: -14px;
+        position: absolute;
+    }
+    .line_2 p {
+        font-size: 45px;
+        width: auto;
+        left: -14px;
+        top: -35px;
+        /* left: -21px; */
+        position: absolute;
+    }
+    .logo {
+        font-size: 20px;
+        top: -25px;
+        font-family: 'K2D';
+        left: 19px;
+    }
+    .menu ul {
+        margin-top: 8px;
+        margin-left: 40px;
+    }
+    .menu li {
+        font-size: 10px;
+        color: white;
+        display: inline-block;
+        margin-left: 7px;
+        transition: 0.3s;
+    }
+    .bier {
+        height: 60PX;
+        width: 60PX;
+        border-radius: 10PX;
+        top: 51px;
+        box-shadow: 0 0 10px rgb(0 0 0);
+        transition: 0.3s;
+        position: absolute;
+        margin-left: 65px;
+        background: #0E0E0E;
+    }
+    .bier p, .bier_e p, .bier_q p {
+        font-size: 12px;
+        text-align: center;
+        left: 0;
+        margin-top: 3px;
+        position: relative;
+        font-weight: 600;
+        color: rgb(255, 255, 255);
+        top: 0;
+    }
+    .dews {
+        width: 36px;
+        height: 36px;
+        margin-top: -10px;
+        border-radius: 50%;
+        background: #15ff00;
+        margin-left: 13px;
+    }
+    .desw {
+        width: 30px;
+        height: 30px;
+        background: #0e0e0e;
+        border-radius: 50%;
+        margin-left: 3px;
+        margin-top: 3px;
+        position: absolute;
+    }
+    .bier_q
+    {
+        height: 60PX;
+        width: 60PX;
+        border-radius: 10PX;
+        top: 51px;
+        box-shadow: 0 0 10px rgb(0 0 0);
+        transition: 0.3s;
+        position: absolute;
+        margin-left: 160px  ;
+        background: #0E0E0E;
+    }
+    .bier_e {
+        height: 60px;
+        width: 60px;
+        border-radius: 10px;
+        top: 51px;
+        box-shadow: 0 0 10px rgb(0 0 0);
+        position: absolute;
+        margin-left: 250px;
+        transition: 0.3s;
+        background: #0E0E0E;
+    }
+    .desw2
+    {
+        width: 30px;
+    height: 30px;
+    background: #0e0e0e;
+    border-radius: 50%;
+    margin-left: 3px;
+    margin-top: 3px;
+    position: absolute;
+    }
+    .dews2
+    {
+        width: 36px;
+        height: 36px;
+        margin-top: -10px;
+        border-radius: 50%;
+        margin-left: 13px;
+    }
+    .name {
+        POSITION: absolute;
+        margin-top: 100px;
+        width: 100%;
+    }
+    .name p {
+        font-size: 20px;
+        font-weight: bold;
+        transition: 0.3s;
+        text-align: center;
+        color: white;
+    }
+    .opa {
+        position: relative;
+        width: 95%;
+        color: white;
+        top: 153px;
+         left: 0;
+        text-align: center;
+        transition: 0.3s;
+    }
+    .p_opa {
+        position: absolute;
+        width: 240px;
+        height: 35px;
+        box-shadow: 0 0 10px rgb(0 0 0);
+        background: #0E0E0E;
+        top: 460px;
+        left: 70px;
+        transition: 0.3s;
+        border-radius: 100px;
+    }
+    .p_opa p, .pale p, .trailer p {
+        color: white;
+        font-size: 15px;
+        text-align: center;
+        position: relative;
+        top: -13px;
+    }
+    .pale {
+        position: absolute;
+        width: 240px;
+        height: 35px;
+        box-shadow: 0 0 10px rgb(0 0 0);
+        background: #0E0E0E;
+        left: 70px;
+        transition: 0.3s;
+        border-radius: 100px;
+    }
+    .trailer
+    {
+        position: absolute;
+        width: 240px;
+        height: 35px;
+        box-shadow: 0 0 10px rgb(0 0 0);
+        background: #0E0E0E;
+        left: 70px;
+        transition: 0.3s;
+        border-radius: 100px;
+    }
+    .photo {
+        position: absolute;
+        left: 30px;
+        top: 607px;
+        width: 10px;
+        height: 100px;
+    }
+    .swiper {
+        height: 344px;
+        width: 100%;
+        top: 547px;
+         left: 0;
+        margin-right: auto;
+        position: relative;
+        overflow: hidden;
+        list-style: none;
+        padding: 0;
+        z-index: 1;
+    }
+    .ose {
+        color: white;
+        font-size: 18px;
+        font-weight: bold;
+        right: 0;
+        transition: 0.3s;
+        text-align: center;
+        top: -160px;
+        position: relative;
+    }
+    
+.country {right: 300px;}
+.genre {right: 312px;}
+.producer{right: 275px;}
+.scenario {right: 272px;}
+.producer_с {right: 270px;}
+.aktr h2 {
+    color: white;
+    position: relative;
+    top: -60px;
+    font-size: 20px;
+    left: 0; 
+    width: 100%;
+    text-align: center;
+}
+.aktr p {
+    top: -45px;
+    position: relative;
+}
+.der_img {
+    position: absolute;
+    top: 95px;
+    right: 17px;
+    display: inherit;
+}
+.der_img img {
+    width: 80px;
+    margin-left: 8px;
+    border-radius: 15px;
+    /* display: inline-flex; */
+    position: relative;
+    height: 120px;
+    transition: 0.3s;
+}
+.der { font-weight: bold; }
+}
