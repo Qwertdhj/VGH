@@ -367,25 +367,13 @@
                 left: 19px;
             }
             .linne {
-                border: 1px solid #383838;
-                width: 90%;
-                margin-top: 6006px;
-                position: absolute;
-                left: 18px;
+display: none;
             }
             .linne_2 {
-                border: 1px solid #383838;
-                width: 90%;
-                margin-top: 2285px;
-                position: absolute;
-                left: 18px;
+display: none;
             }
             .linne_3 {
-                border: 1px solid #ff0000;
-                width: 90%;
-                margin-top: 3386px;
-                position: absolute;
-                left: 18px;
+display: none;
             }
             .linne_4 {
           display:none;
